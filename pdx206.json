@@ -1,0 +1,7 @@
+{
+    "DEVICE": "pdx206",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_sony_pdx206",
+    "DIR": "device/sony/pdx206",
+    "BUILD_TYPE": "user",
+    "UPLOAD_RECOVERY": true
+}

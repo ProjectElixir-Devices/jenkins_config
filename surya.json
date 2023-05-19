@@ -1,0 +1,7 @@
+{
+  "DEVICE": "surya",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_surya.git",
+  "DIR": "device/xiaomi/surya",
+  "BUILD_TYPE": "userdebug",
+  "UPLOAD_RECOVERY": true
+}

@@ -1,0 +1,6 @@
+{
+    "DEVICE": "xmsirius",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_xmsirius",
+    "DIR": "device/xiaomi/xmsirius",
+    "BUILD_TYPE": "user"
+}

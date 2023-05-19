@@ -1,0 +1,6 @@
+{
+  "DEVICE": "cheeseburger",
+  "REPO": "https://github.com/pure-soul-kk/device_oneplus_cheeseburger",
+  "DIR": "device/oneplus/cheeseburger",
+  "BUILD_TYPE": "userdebug"
+}

@@ -1,0 +1,7 @@
+{
+    "DEVICE": "marble",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_marble",
+    "DIR": "device/xiaomi/marble",
+    "BUILD_TYPE": "userdebug",
+    "UPLOAD_RECOVERY": true
+}

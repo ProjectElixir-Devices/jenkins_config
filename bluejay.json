@@ -1,0 +1,8 @@
+{
+    "DEVICE": "bluejay",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_google_bluejay",
+    "DIR": "device/google/bluejay",
+    "BUILD_TYPE": "user",
+    "UPLOAD_RECOVERY": true,
+    "IS_PIXEL": true
+}

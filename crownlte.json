@@ -1,0 +1,6 @@
+{
+  "DEVICE": "crownlte",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_samsung_crownlte",
+  "DIR": "device/samsung/crownlte",
+  "BUILD_TYPE": "userdebug"
+}

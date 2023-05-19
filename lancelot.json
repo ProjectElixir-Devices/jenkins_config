@@ -1,0 +1,6 @@
+{
+    "DEVICE": "lancelot",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_lancelot",
+    "DIR": "device/xiaomi/lancelot",
+    "BUILD_TYPE": "userdebug"
+}

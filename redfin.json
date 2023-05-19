@@ -1,0 +1,8 @@
+{
+    "DEVICE": "redfin",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_google_redfin",
+    "DIR": "device/google/redfin",
+    "BUILD_TYPE": "user",
+    "UPLOAD_RECOVERY": true,
+    "IS_PIXEL": true
+}

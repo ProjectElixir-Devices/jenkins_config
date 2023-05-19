@@ -1,0 +1,7 @@
+{
+  "DEVICE": "vince",
+  "REPO": "https://github.com/PrajjuS/device_xiaomi_vince",
+  "DIR": "device/xiaomi/vince",
+  "BUILD_TYPE": "userdebug",
+  "UPLOAD_RECOVERY": true
+}

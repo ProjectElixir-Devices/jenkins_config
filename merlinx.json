@@ -1,0 +1,6 @@
+{
+  "DEVICE": "merlinx",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_merlinx",
+  "DIR": "device/xiaomi/merlinx",
+  "BUILD_TYPE": "userdebug"
+}

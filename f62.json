@@ -1,0 +1,7 @@
+{
+    "DEVICE": "f62",
+    "REPO": "https://github.com/ProjectElixir-Devices/android_device_samsung_f62.git",
+    "DIR": "device/samsung/f62",
+    "BUILD_TYPE": "userdebug",
+    "UPLOAD_RECOVERY": true
+}

@@ -1,0 +1,7 @@
+{
+    "DEVICE": "salaa",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_realme_salaa",
+    "DIR": "device/realme/salaa",
+    "BUILD_TYPE": "user",
+    "UPLOAD_RECOVERY": true
+}

@@ -1,0 +1,6 @@
+{
+  "DEVICE": "raphael",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_raphael",
+  "DIR": "device/xiaomi/raphael",
+  "BUILD_TYPE": "userdebug"
+}

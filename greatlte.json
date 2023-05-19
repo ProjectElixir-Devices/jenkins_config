@@ -1,0 +1,6 @@
+{
+    "DEVICE": "greatlte",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_samsung_greatlte.git",
+    "DIR": "device/samsung/greatlte",
+    "BUILD_TYPE": "userdebug"
+}

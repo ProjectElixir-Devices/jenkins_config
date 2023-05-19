@@ -1,0 +1,7 @@
+{
+    "DEVICE": "DRG",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_nokia_DRG.git",
+    "DIR": "device/nokia/DRG",
+    "BUILD_TYPE": "userdebug",
+    "UPLOAD_RECOVERY": true
+}

@@ -1,0 +1,6 @@
+{
+  "DEVICE": "mido",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_mido.git",
+  "DIR": "device/xiaomi/mido",
+  "BUILD_TYPE": "userdebug"
+}

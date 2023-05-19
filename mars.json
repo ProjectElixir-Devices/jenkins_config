@@ -1,0 +1,6 @@
+{
+  "DEVICE": "mars",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_mars",
+  "DIR": "device/xiaomi/mars",
+  "BUILD_TYPE": "userdebug"
+}

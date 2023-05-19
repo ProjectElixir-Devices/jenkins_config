@@ -1,0 +1,6 @@
+{
+    "DEVICE": "RM6785",
+    "REPO": "https://github.com/ProjectElixir-Devices/android_device_realme_RM6785",
+    "DIR": "device/realme/RM6785",
+    "BUILD_TYPE": "user"
+}

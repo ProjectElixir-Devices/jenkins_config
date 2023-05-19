@@ -1,0 +1,6 @@
+{
+  "DEVICE": "bladerunner_48m",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_realme_bladerunner_48m",
+  "DIR": "device/realme/bladerunner_48m",
+  "BUILD_TYPE": "userdebug"
+}

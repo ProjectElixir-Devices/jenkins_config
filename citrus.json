@@ -1,0 +1,6 @@
+{
+    "DEVICE": "citrus",
+    "REPO": "https://github.com/imannig/device_xiaomi_citrus.git",
+    "DIR": "device/xiaomi/citrus",
+    "BUILD_TYPE": "userdebug"
+}

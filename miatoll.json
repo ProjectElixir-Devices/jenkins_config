@@ -1,0 +1,7 @@
+{
+    "DEVICE": "miatoll",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_miatoll.git",
+    "DIR": "device/xiaomi/miatoll",
+    "BUILD_TYPE": "user",
+    "UPLOAD_RECOVERY": true
+}

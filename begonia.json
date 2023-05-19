@@ -1,0 +1,6 @@
+{
+  "DEVICE": "begonia",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_redmi_begonia",
+  "DIR": "device/redmi/begonia",
+  "BUILD_TYPE": "userdebug"
+}

@@ -1,0 +1,8 @@
+{
+    "DEVICE": "akita",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_google_akita",
+    "DIR": "device/google/akita",
+    "BUILD_TYPE": "user",
+    "UPLOAD_RECOVERY": true,
+    "IS_PIXEL": true
+}

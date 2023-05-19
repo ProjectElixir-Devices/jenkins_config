@@ -1,0 +1,6 @@
+{
+    "DEVICE": "flame",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_google_coral.git",
+    "DIR": "device/google/coral",
+    "BUILD_TYPE": "userdebug"
+}

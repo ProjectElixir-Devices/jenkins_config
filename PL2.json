@@ -1,0 +1,7 @@
+{
+    "DEVICE": "PL2",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_nokia_PL2.git",
+    "DIR": "device/nokia/PL2",
+    "BUILD_TYPE": "userdebug",
+    "UPLOAD_RECOVERY": true
+}

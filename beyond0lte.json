@@ -1,0 +1,7 @@
+{
+    "DEVICE": "beyond0lte",
+    "REPO": "https://github.com/ProjectElixir-Devices/android_device_samsung_beyond0lte.git",
+    "DIR": "device/samsung/beyond0lte",
+    "BUILD_TYPE": "userdebug",
+    "UPLOAD_RECOVERY": true
+}

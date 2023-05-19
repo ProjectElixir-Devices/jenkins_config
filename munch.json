@@ -1,0 +1,6 @@
+{
+    "DEVICE": "munch",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_munch",
+    "DIR": "device/xiaomi/munch",
+    "BUILD_TYPE": "user"
+}

@@ -1,0 +1,7 @@
+{
+  "DEVICE": "lmi",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_lmi",
+  "DIR": "device/xiaomi/lmi",
+  "BUILD_TYPE": "user",
+  "UPLOAD_RECOVERY": true
+}

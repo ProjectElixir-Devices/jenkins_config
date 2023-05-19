@@ -1,0 +1,6 @@
+{
+    "DEVICE": "lunaa",
+    "REPO": "https://github.com/ProjectElixir-Devices/android_device_realme_lunaa.git",
+    "DIR": "device/realme/lunaa",
+    "BUILD_TYPE": "user"
+}

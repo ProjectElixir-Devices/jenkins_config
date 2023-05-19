@@ -1,0 +1,6 @@
+{
+  "DEVICE": "RMX2170",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_realme_RMX2170.git",
+  "DIR": "device/realme/RMX2170",
+  "BUILD_TYPE": "userdebug"
+}

@@ -1,0 +1,6 @@
+{
+  "DEVICE": "star2lte",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_samsung_star2lte",
+  "DIR": "device/samsung/star2lte",
+  "BUILD_TYPE": "userdebug"
+}

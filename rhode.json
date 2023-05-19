@@ -1,0 +1,6 @@
+{
+  "DEVICE": "rhode",
+  "REPO": "https://github.com/ProjectElixir-Devices/android_device_motorola_rhode",
+  "DIR": "device/motorola/rhode",
+  "BUILD_TYPE": "userdebug"
+}

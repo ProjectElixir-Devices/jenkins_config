@@ -1,0 +1,6 @@
+{
+    "DEVICE": "lavender",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_lavender",
+    "DIR": "device/xiaomi/lavender",
+    "BUILD_TYPE": "userdebug"
+}

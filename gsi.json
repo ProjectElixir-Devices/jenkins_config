@@ -1,0 +1,7 @@
+{
+    "DEVICE": "arm64_bgN",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_phh_treble.git",
+    "DIR": "device/phh/treble",
+    "BUILD_TYPE": "userdebug",
+    "IS_GSI": true
+}

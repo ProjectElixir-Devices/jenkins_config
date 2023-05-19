@@ -1,0 +1,6 @@
+{
+    "DEVICE": "grus",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_grus",
+    "DIR": "device/xiaomi/grus",
+    "BUILD_TYPE": "user"
+}

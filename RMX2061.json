@@ -1,0 +1,6 @@
+{
+  "DEVICE": "RMX2061",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_realme_RMX2061",
+  "DIR": "device/realme/RMX2061",
+  "BUILD_TYPE": "userdebug"
+}

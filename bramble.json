@@ -1,0 +1,8 @@
+{
+    "DEVICE": "bramble",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_google_bramble",
+    "DIR": "device/google/bramble",
+    "BUILD_TYPE": "user",
+    "UPLOAD_RECOVERY": true,
+    "IS_PIXEL": true
+}

@@ -1,0 +1,8 @@
+{
+    "DEVICE": "panther",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_google_pantah",
+    "DIR": "device/google/pantah",
+    "BUILD_TYPE": "user",
+    "UPLOAD_RECOVERY": true,
+    "IS_PIXEL": true
+}

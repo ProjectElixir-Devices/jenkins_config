@@ -1,0 +1,7 @@
+{
+  "DEVICE": "lemonade",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_oneplus_lemonade",
+  "DIR": "device/oneplus/lemonade",
+  "BUILD_TYPE": "userdebug",
+  "UPLOAD_RECOVERY": true
+}

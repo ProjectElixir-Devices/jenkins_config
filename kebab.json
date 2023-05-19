@@ -1,0 +1,7 @@
+{
+  "DEVICE": "kebab",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_oneplus_kebab.git",
+  "DIR": "device/oneplus/kebab",
+  "BUILD_TYPE": "userdebug",
+  "UPLOAD_RECOVERY": true
+}

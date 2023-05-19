@@ -1,0 +1,7 @@
+{
+    "DEVICE": "haydn",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_haydn",
+    "DIR": "device/xiaomi/haydn",
+    "BUILD_TYPE": "userdebug",
+    "UPLOAD_RECOVERY": true
+}

@@ -1,0 +1,6 @@
+{
+  "DEVICE": "beryllium",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_beryllium",
+  "DIR": "device/xiaomi/beryllium",
+  "BUILD_TYPE": "user"
+}

@@ -1,0 +1,6 @@
+{
+  "DEVICE": "taimen",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_google_taimen",
+  "DIR": "device/google/taimen",
+  "BUILD_TYPE": "user"
+}

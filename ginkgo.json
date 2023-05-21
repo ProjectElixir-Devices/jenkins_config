@@ -1,0 +1,6 @@
+{
+  "DEVICE": "ginkgo",
+  "REPO": "https://github.com/ProjectElixir-Devices/android_device_xiaomi_ginkgo",
+  "DIR": "device/xiaomi/ginkgo",
+  "BUILD_TYPE": "userdebug"
+}

@@ -1,0 +1,6 @@
+{
+    "DEVICE": "sunfish",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_google_sunfish.git",
+    "DIR": "device/google/sunfish",
+    "BUILD_TYPE": "userdebug"
+}

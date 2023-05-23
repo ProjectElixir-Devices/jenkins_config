@@ -1,0 +1,6 @@
+{
+    "DEVICE": "alioth",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_alioth",
+    "DIR": "device/xiaomi/alioth",
+    "BUILD_TYPE": "userdebug"
+}

@@ -1,0 +1,6 @@
+{
+    "DEVICE": "cheetah",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_google_pantah.git",
+    "DIR": "device/google/pantah",
+    "BUILD_TYPE": "userdebug"
+}

@@ -1,0 +1,6 @@
+{
+    "DEVICE": "raven",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_google_raviole.git",
+    "DIR": "device/google/raviole",
+    "BUILD_TYPE": "userdebug"
+}

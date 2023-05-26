@@ -1,7 +1,7 @@
 {
-    "DEVICE": "arm64_bgN",
+    "DEVICE": "tdgsi_arm64_ab",
     "REPO": "https://github.com/ProjectElixir-Devices/device_phhgsi_generic.git",
     "DIR": "device/phh/treble",
     "BUILD_TYPE": "userdebug",
-    "IS_GSI": "yes"
+    "IS_GSI": "true"
 }

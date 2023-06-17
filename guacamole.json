@@ -1,0 +1,6 @@
+{
+  "DEVICE": "guacamole",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_oneplus_guacamole",
+  "DIR": "device/oneplus/guacamole",
+  "BUILD_TYPE": "userdebug"
+}

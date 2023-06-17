@@ -1,0 +1,6 @@
+{
+  "DEVICE": "vayu",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_vayu.git",
+  "DIR": "device/xiaomi/vayu",
+  "BUILD_TYPE": "userdebug"
+}

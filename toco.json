@@ -1,0 +1,6 @@
+{
+  "DEVICE": "toco",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_toco.git",
+  "DIR": "device/xiaomi/toco",
+  "BUILD_TYPE": "userdebug"
+}

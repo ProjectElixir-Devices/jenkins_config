@@ -1,0 +1,6 @@
+{
+  "DEVICE": "guacamoleb",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_oneplus_guacamoleb",
+  "DIR": "device/oneplus/guacamoleb",
+  "BUILD_TYPE": "userdebug"
+}

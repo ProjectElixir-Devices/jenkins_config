@@ -1,0 +1,6 @@
+{
+  "DEVICE": "instantnoodle",
+  "REPO": "https://github.com/ProjectElixir-Devicesdevice_oneplus_instantnoodle.git",
+  "DIR": "device/oneplus/instantnoodle",
+  "BUILD_TYPE": "userdebug"
+}

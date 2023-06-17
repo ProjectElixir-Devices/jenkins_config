@@ -1,0 +1,6 @@
+{
+  "DEVICE": "dumpling",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_oneplus_dumpling",
+  "DIR": "device/oneplus/dumpling",
+  "BUILD_TYPE": "userdebug"
+}

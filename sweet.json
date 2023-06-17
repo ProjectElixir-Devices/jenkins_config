@@ -1,0 +1,6 @@
+{
+    "DEVICE": "sweet",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_sweet.git",
+    "DIR": "device/xiaomi/sweet",
+    "BUILD_TYPE": "user"
+}

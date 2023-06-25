@@ -1,0 +1,6 @@
+{
+  "DEVICE": "bladerunner",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_realme_bladerunner",
+  "DIR": "device/realme/bladerunner",
+  "BUILD_TYPE": "eng"
+}

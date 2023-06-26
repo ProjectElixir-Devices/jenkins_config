@@ -1,0 +1,6 @@
+{
+    "DEVICE": "X00TD",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_asus_X00TD",
+    "DIR": "device/asus/X00TD",
+    "BUILD_TYPE": "userdebug"
+}

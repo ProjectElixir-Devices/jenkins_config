@@ -1,6 +1,6 @@
 {
     "DEVICE": "blueline",
     "REPO": "https://github.com/ProjectElixir-Devices/device_google_crosshatch.git",
-    "DIR": "device/google/blueline",
+    "DIR": "device/google/crosshatch",
     "BUILD_TYPE": "user"
 }

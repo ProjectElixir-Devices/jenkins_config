@@ -1,0 +1,5 @@
+{
+  "DEVICE": "selene",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_selene",
+  "DIR": "device/xiaomi/selene",
+  "BUILD_TYPE": "userdebug"

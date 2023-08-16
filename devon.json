@@ -1,0 +1,6 @@
+{
+  "DEVICE": "devon",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_motorola_devon",
+  "DIR": "device/motorola/devon",
+  "BUILD_TYPE": "userdebug"
+}

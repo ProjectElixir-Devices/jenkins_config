@@ -1,0 +1,6 @@
+{
+    "DEVICE": "RMX2020",
+    "REPO": "https://github.com/ProjectElixir-Devices/android_device_realme_RMX2020",
+    "DIR": "device/realme/RMX2020",
+    "BUILD_TYPE": "user"
+}

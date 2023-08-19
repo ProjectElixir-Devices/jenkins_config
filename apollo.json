@@ -1,6 +1,0 @@
-{
-  "DEVICE": "apollo",
-  "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_apollo.git",
-  "DIR": "device/xiaomi/apollo",
-  "BUILD_TYPE": "userdebug"
-}

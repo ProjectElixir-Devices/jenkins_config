@@ -1,0 +1,6 @@
+{
+  "DEVICE": "hotdog",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_oneplus_hotdog.git",
+  "DIR": "device/oneplus/hotdog",
+  "BUILD_TYPE": "userdebug"
+}

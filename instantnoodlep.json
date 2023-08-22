@@ -1,6 +1,6 @@
 {
   "DEVICE": "instantnoodlep",
-  "REPO": "https://github.com/pure-soul-kk/device_oneplus_instantnoodlep",
+  "REPO": "https://github.com/pure-soul-kk/device_oneplus_instantnoodlep-n",
   "DIR": "device/oneplus/instantnoodlep",
   "BUILD_TYPE": "userdebug"
 }

@@ -1,0 +1,6 @@
+{
+    "DEVICE": "veux",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_fog",
+    "DIR": "device/xiaomi/fog",
+    "BUILD_TYPE": "user"
+}

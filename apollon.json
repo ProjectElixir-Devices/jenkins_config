@@ -1,6 +1,6 @@
 {
   "DEVICE": "apollon",
-  "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_apollon.git",
+  "REPO": "https://github.com/pure-soul-kk/device_xiaomi_apolloncr",
   "DIR": "device/xiaomi/apollon",
   "BUILD_TYPE": "userdebug"
 }

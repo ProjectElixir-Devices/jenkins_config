@@ -1,6 +1,6 @@
 {
-  "DEVICE": "apollon",
-  "REPO": "https://github.com/pure-soul-kk/device_xiaomi_apolloncr",
-  "DIR": "device/xiaomi/apollon",
+  "DEVICE": "apollo",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_apollo/commits/Tiramisu-arrow",
+  "DIR": "device/xiaomi/apollo",
   "BUILD_TYPE": "userdebug"
 }

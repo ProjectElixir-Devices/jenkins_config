@@ -1,6 +1,6 @@
 {
   "DEVICE": "kebab",
-  "REPO": "https://github.com/ProjectElixir-Devices/device_oneplus_kebab.git",
+  "REPO": "https://github.com/pure-soul-kk/device_oneplus_kebab",
   "DIR": "device/oneplus/kebab",
   "BUILD_TYPE": "userdebug"
 }

@@ -1,6 +1,6 @@
 {
   "DEVICE": "lemonades",
-  "REPO": "https://github.com/pure-soul-kk/device_oneplus_lemonades",
+  "REPO": "https://github.com/pure-soul-kk/lemonades",
   "DIR": "device/oneplus/lemonades",
   "BUILD_TYPE": "userdebug"
 }

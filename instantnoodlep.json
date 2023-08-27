@@ -1,6 +1,6 @@
 {
   "DEVICE": "instantnoodlep",
-  "REPO": "https://github.com/ProjectElixir-Devices/android_device_oneplus_instantnoodlep",
+  "REPO": "https://github.com/pure-soul-kk/instantnoodlep",
   "DIR": "device/oneplus/instantnoodlep",
   "BUILD_TYPE": "userdebug"
 }

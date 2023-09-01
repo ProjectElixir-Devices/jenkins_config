@@ -1,6 +1,6 @@
 {
   "DEVICE": "tissot",
-  "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_tissot-new",
+  "REPO": "https://github.com/pure-soul-kk/tissot",
   "DIR": "device/xiaomi/tissot",
   "BUILD_TYPE": "userdebug"
 }

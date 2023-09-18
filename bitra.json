@@ -1,0 +1,6 @@
+{
+    "DEVICE": "bitra",
+    "REPO": "https://github.com/allworkdone/project_elixir_device_realme_bitra",
+    "DIR": "device/realme/bitra",
+    "BUILD_TYPE": "userdebug"
+}

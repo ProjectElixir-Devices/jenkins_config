@@ -1,6 +1,6 @@
 {
   "DEVICE": "starlte",
-  "REPO": "https://github.com/ProjectElixir-Devices/device_samsung_starlte-new",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_samsung_starlte",
   "DIR": "device/samsung/starlte",
   "BUILD_TYPE": "userdebug"
 }

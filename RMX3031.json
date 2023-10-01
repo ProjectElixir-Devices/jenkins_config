@@ -2,5 +2,5 @@
   "DEVICE": "RMX3031",
   "REPO": "https://github.com/ProjectElixir-Devices/device_realme_RMX3031",
   "DIR": "device/realme/RMX3031",
-  "BUILD_TYPE": "userdebug"
+  "BUILD_TYPE": "user"
 }

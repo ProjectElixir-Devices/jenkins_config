@@ -1,0 +1,6 @@
+{
+    "DEVICE": "dm3q",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_samsung_dm3q.git",
+    "DIR": "device/samsung/dm3q",
+    "BUILD_TYPE": "userdebug"
+}

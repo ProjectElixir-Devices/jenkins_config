@@ -2,6 +2,6 @@
   "DEVICE": "r5x",
   "REPO": "https://github.com/ProjectElixir-Devices/device_realme_r5x",
   "DIR": "device/realme/r5x",
-  "BUILD_TYPE": "userdebug"
+  "BUILD_TYPE": "userdebug",
   "UPLOAD_RECOVERY": true
 }

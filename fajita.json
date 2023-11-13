@@ -3,4 +3,5 @@
   "REPO": "https://github.com/ProjectElixir-Devices/device_oneplus_fajita.git",
   "DIR": "device/oneplus/fajita",
   "BUILD_TYPE": "eng"
+  "UPLOAD_RECOVERY": true
 }

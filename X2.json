@@ -1,6 +1,6 @@
 {
     "DEVICE": "X2",
-    "REPO": "https://github.com/ProjectElixir-Devices/device_realme_RMX199X",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_realme_X2",
     "DIR": "device/realme/X2",
     "BUILD_TYPE": "userdebug"
 }

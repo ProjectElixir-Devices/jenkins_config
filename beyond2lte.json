@@ -2,5 +2,6 @@
     "DEVICE": "beyond2lte",
     "REPO": "https://github.com/ProjectElixir-Devices/android_device_samsung_beyond2lte.git",
     "DIR": "device/samsung/beyond2lte",
-    "BUILD_TYPE": "userdebug"
+    "BUILD_TYPE": "userdebug",
+    "UPLOAD_RECOVERY": true
 }

@@ -1,6 +1,6 @@
 {
     "DEVICE": "vili",
-    "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_vili",
+    "REPO": "https://github.com/ProjectElixir-Devices/android_device_xiaomi_vili",
     "DIR": "device/xiaomi/vili",
     "BUILD_TYPE": "userdebug"
 }

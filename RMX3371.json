@@ -2,5 +2,5 @@
   "DEVICE": "RMX3371",
   "REPO": "https://github.com/ProjectElixir-Devices/android_device_realme_rmx3371",
   "DIR": "device/realme/RMX3371",
-  "BUILD_TYPE": "userdebug"
+  "BUILD_TYPE": "eng"
 }

@@ -2,5 +2,5 @@
   "DEVICE": "redwood",
   "REPO": "https://github.com/ProjectElixir-Devices/android_device_xiaomi_redwood",
   "DIR": "device/xiaomi/redwood",
-  "BUILD_TYPE": "eng"
+  "BUILD_TYPE": "userdebug"
 }

@@ -1,6 +1,6 @@
 {
   "DEVICE": "hawao",
-  "REPO": "https://github.com/ProjectElixir-Devices/device_motorola_hawao",
+  "REPO": "https://github.com/ProjectElixir-Devices/android_device_motorola_hawao",
   "DIR": "device/motorola/hawao",
   "BUILD_TYPE": "userdebug"
 }

@@ -19,7 +19,8 @@ codename.json
     "DEVICE": "",
     "REPO": "",
     "DIR": "",
-    "BUILD_TYPE": ""
+    "BUILD_TYPE": "",
+    "UPLOAD_RECOVERY": true
 }
 ```
 
@@ -30,5 +31,5 @@ codename.json
 
 #### 3. Finally make a PR to this repo and tag any core member in maintainers group to merge it.
 
-### Example: [Here](https://github.com/ProjectElixir-Devices/jenkins_config/blob/main/vince.json)
+### Example: [Here](https://github.com/ProjectElixir-Devices/jenkins_config/blob/main/guacamoleb.json)
 

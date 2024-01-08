@@ -2,5 +2,6 @@
   "DEVICE": "hotdogb",
   "REPO": "https://github.com/ProjectElixir-Devices/device_oneplus_hotdogb.git",
   "DIR": "device/oneplus/hotdogb",
-  "BUILD_TYPE": "userdebug"
+  "BUILD_TYPE": "userdebug",
+  "UPLOAD_RECOVERY": true
 }

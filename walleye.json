@@ -2,5 +2,6 @@
   "DEVICE": "walleye",
   "REPO": "https://github.com/ProjectElixir-Devices/device_google_walleye",
   "DIR": "device/google/walleye",
-  "BUILD_TYPE": "user"
+  "BUILD_TYPE": "user",
+  "UPLOAD_RECOVERY": true
 }

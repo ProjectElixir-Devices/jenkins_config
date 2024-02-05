@@ -2,5 +2,5 @@
   "DEVICE": "sky",
   "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_sky",
   "DIR": "device/xiaomi/sky",
-  "BUILD_TYPE": "userdebug"
+  "BUILD_TYPE": "user"
 }

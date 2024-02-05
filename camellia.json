@@ -1,0 +1,7 @@
+{
+    "DEVICE": "camellia",
+    "REPO": "https://github.com/ProjectElixir-Devices/android_device_xiaomi_camellia.git",
+    "DIR": "device/xiaomi/camellia",
+    "BUILD_TYPE": "userdebug",
+    "UPLOAD_RECOVERY": true
+}

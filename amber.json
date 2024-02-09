@@ -1,0 +1,7 @@
+{
+    "DEVICE": "amber",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_amber.git",
+    "DIR": "device/xiaomi/amber",
+    "BUILD_TYPE": "userdebug",
+    "UPLOAD_RECOVERY": true
+}

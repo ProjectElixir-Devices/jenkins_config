@@ -2,5 +2,5 @@
     "DEVICE": "veux",
     "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_veux",
     "DIR": "device/xiaomi/veux",
-    "BUILD_TYPE": "userdebug"
+    "BUILD_TYPE": "user"
 }

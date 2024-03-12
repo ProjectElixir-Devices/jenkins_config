@@ -1,0 +1,7 @@
+{
+    "DEVICE": "lisa",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_lisa",
+    "DIR": "device/xiaomi/lisa",
+    "BUILD_TYPE": "userdebug",
+    "UPLOAD_RECOVERY": true
+}

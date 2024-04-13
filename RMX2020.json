@@ -2,6 +2,6 @@
     "DEVICE": "RMX2020",
     "REPO": "https://github.com/ProjectElixir-Devices/device_realme_RMX2020",
     "DIR": "device/realme/RMX2020",
-    "BUILD_TYPE": "userdebug",
+    "BUILD_TYPE": "user",
     "UPLOAD_RECOVERY": true
 }

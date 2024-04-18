@@ -1,0 +1,7 @@
+{
+    "DEVICE": "d1x",
+    "REPO": "https://github.com/ProjectElixir-Devices/android_device_samsung_d1x.git",
+    "DIR": "device/samsung/d1x",
+    "BUILD_TYPE": "userdebug",
+    "UPLOAD_RECOVERY": true
+}

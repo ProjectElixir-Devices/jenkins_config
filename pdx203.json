@@ -1,0 +1,7 @@
+{
+    "DEVICE": "pdx203",
+    "REPO": "https://github.com/ahnet-69/pdx203-temp.git",
+    "DIR": "device/sony/pdx203",
+    "BUILD_TYPE": "user",
+    "UPLOAD_RECOVERY": true
+}

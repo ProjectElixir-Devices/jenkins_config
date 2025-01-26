@@ -1,0 +1,6 @@
+{
+    "DEVICE": "garnet",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_garnet.git",
+    "DIR": "device/xiaomi/garnet",
+    "BUILD_TYPE": "user",
+  }

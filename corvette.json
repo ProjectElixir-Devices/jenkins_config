@@ -1,0 +1,6 @@
+{
+    "DEVICE": "corvette",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_oneplus_corvette",
+    "DIR": "device/oneplus/corvette",
+    "BUILD_TYPE": "userdebug"
+}

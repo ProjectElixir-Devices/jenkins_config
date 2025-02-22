@@ -1,0 +1,7 @@
+{
+  "DEVICE": "lemondep",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_oneplus_lemondep",
+  "DIR": "device/oneplus/lemondep",
+  "BUILD_TYPE": "userdebug",
+  "UPLOAD_RECOVERY": true
+}

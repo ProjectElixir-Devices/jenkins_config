@@ -2,7 +2,7 @@
     "DEVICE": "sunfish",
     "REPO": "https://github.com/ProjectElixir-Devices/device_google_sunfish",
     "DIR": "device/google/sunfish",
-    "BUILD_TYPE": "user",
+    "BUILD_TYPE": "userdebug",
     "UPLOAD_RECOVERY": true,
     "IS_PIXEL": true
 }

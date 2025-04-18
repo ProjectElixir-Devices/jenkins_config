@@ -1,8 +1,9 @@
 {
     "DEVICE": "shiba",
-    "REPO": "https://github.com/ProjectElixir-Devices/device_google_shusky",
+    "REPO": "https://github.com/ProjectElixir-Devices/android_device_google_shusky",
     "DIR": "device/google/shusky",
     "BUILD_TYPE": "userdebug",
     "UPLOAD_RECOVERY": true,
-    "IS_PIXEL": true
+    "IS_PIXEL": true,
+    "SHOW_STATUS": false
 }

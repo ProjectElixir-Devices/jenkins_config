@@ -1,0 +1,9 @@
+{
+    "DEVICE": "sunny",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_sunny",
+    "DIR": "device/xiaomi/sunny",
+    "BUILD_TYPE": "userdebug",
+    "UPLOAD_RECOVERY": true,
+    "IS_PIXEL": false,
+    "SHOW_STATUS": false
+}

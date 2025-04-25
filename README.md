@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://i.imgur.com/irnHU8d.png" />
-</p>
+  <img src="https://github.com/Project-Elixir/docs/blob/bkl/res/elixir-a16banner.png" />
+</p
+
+<br>   
 
 ### Project Elixir Jenkins Device Configs シ
 Repo which contains the Jenkins Build Parameters of all the devices which are used by Elixir Robot (bot) to trigger builds in Project Elixir Jenkins
+
+[![Download Project Elixir [Custom ROM]](https://img.shields.io/sourceforge/dm/project-elixir.svg)](https://projectelixiros.com/download) <img src="https://komarev.com/ghpvc/?username=Project-Elixir&style=flat-square" alt="Project-Elixir" />  [![Download Project Elixir [Custom ROM]](https://img.shields.io/sourceforge/dt/project-elixir.svg)](https://projectelixiros.com/download) 
 
 ### Instructions to the maintainers
 Please follow the below steps to create your device config and make a PR to this repo:
@@ -44,5 +48,5 @@ codename.json
 > **Donate**: [Do consider donating or buying us a coffee](https://projectelixiros.com/donate)
 
 <p align="center">
-  <img src="https://i.imgur.com/bETSPlo.png" />
-</p>
+  <img src="https://github.com/Project-Elixir/docs/blob/bkl/res/elixir-copyright.png" />
+</p

@@ -3,5 +3,6 @@
   "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_stone.git",
   "DIR": "device/xiaomi/stone",
   "BUILD_TYPE": "userdebug",
-  "UPLOAD_RECOVERY": true
+  "UPLOAD_RECOVERY": true,
+  "IS_PIXEL" : true
 }

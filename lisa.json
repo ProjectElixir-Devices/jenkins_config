@@ -4,5 +4,6 @@
     "DIR": "device/xiaomi/lisa",
     "BUILD_TYPE": "userdebug",
     "UPLOAD_RECOVERY": true,
-    "IS_PIXEL" : true
+    "IS_PIXEL": true,
+    "SHOW_STATUS": false
 }

@@ -1,0 +1,9 @@
+{
+    "DEVICE": "oscaro",
+    "REPO": "https://github.com/ProjectElixir-Devices/android_device_oneplus_oscaro",
+    "DIR": "device/oneplus/oscaro",
+    "BUILD_TYPE": "userdebug",
+    "UPLOAD_RECOVERY": true,
+    "IS_PIXEL": true,
+    "SHOW_STATUS": false
+}

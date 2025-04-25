@@ -1,6 +1,9 @@
 {
     "DEVICE": "crosshatch",
-    "REPO": "https://github.com/ProjectElixir-Devices/device_google_crosshatch.git",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_google_crosshatch",
     "DIR": "device/google/crosshatch",
-    "BUILD_TYPE": "user"
+    "BUILD_TYPE": "userdebug",
+    "UPLOAD_RECOVERY": true,
+    "IS_PIXEL": true,
+    "SHOW_STATUS": false
 }

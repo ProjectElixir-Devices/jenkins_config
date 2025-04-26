@@ -1,6 +1,9 @@
 {
-  "DEVICE": "beryllium",
-  "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_beryllium",
-  "DIR": "device/xiaomi/beryllium",
-  "BUILD_TYPE": "userdebug"
+    "DEVICE": "beryllium",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_beryllium",
+    "DIR": "device/xiaomi/beryllium",
+    "BUILD_TYPE": "userdebug",
+    "UPLOAD_RECOVERY": true,
+    "IS_PIXEL": false,
+    "SHOW_STATUS": false
 }

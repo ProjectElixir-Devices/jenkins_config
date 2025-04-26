@@ -1,6 +1,9 @@
 {
-  "DEVICE": "redwood",
-  "REPO": "https://github.com/ProjectElixir-Devices/android_device_xiaomi_redwood",
-  "DIR": "device/xiaomi/redwood",
-  "BUILD_TYPE": "userdebug"
+    "DEVICE": "redwood",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_redwood",
+    "DIR": "device/xiaomi/redwood",
+    "BUILD_TYPE": "userdebug",
+    "UPLOAD_RECOVERY": true,
+    "IS_PIXEL": true,
+    "SHOW_STATUS": false
 }

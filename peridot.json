@@ -1,0 +1,7 @@
+{
+  "DEVICE": "peridot",
+  "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_peridot.git",
+  "DIR": "device/xiaomi/peridot",
+  "BUILD_TYPE": "userdebug",
+  "UPLOAD_RECOVERY": true
+}

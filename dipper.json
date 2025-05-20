@@ -1,0 +1,9 @@
+{
+    "DEVICE": "dipper",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_dipper",
+    "DIR": "device/xiaomi/dipper",
+    "BUILD_TYPE": "userdebug",
+    "UPLOAD_RECOVERY": true,
+    "IS_PIXEL": false,
+    "SHOW_STATUS": false
+}

@@ -1,0 +1,6 @@
+{
+    "DEVICE": "tundra",
+    "REPO": "https://github.com/ProjectElixir-Devices/device_motorola_tundra.git",
+    "DIR": "device/motorola/tundra",
+    "BUILD_TYPE": "user"
+}

@@ -1,6 +1,6 @@
 {
     "DEVICE": "bangkk",
-    "REPO": "https://github.com/ProjectElixir-Devices/device_motorola_bangkk",
+    "REPO": "https://github.com/ProjectElixir-Devices/android_device_motorola_bangkk",
     "DIR": "device/motorola/bangkk",
     "BUILD_TYPE": "eng",
     "UPLOAD_RECOVERY": true

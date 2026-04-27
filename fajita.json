@@ -1,6 +1,6 @@
 {
   "DEVICE": "fajita",
-  "REPO": "https://github.com/ProjectElixir-Devices/device_oneplus_fajita.git",
+  "REPO": "https://github.com/ProjectElixir-Devices/android_device_oneplus_fajita",
   "DIR": "device/oneplus/fajita",
   "BUILD_TYPE": "userdebug",
   "UPLOAD_RECOVERY": "true"

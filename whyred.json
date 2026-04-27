@@ -1,6 +1,6 @@
 {
   "DEVICE": "whyred",
-  "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_whyred.git",
+  "REPO": "https://github.com/ProjectElixir-Devices/android_device_xiaomi_whyred",
   "DIR": "device/xiaomi/whyred",
   "BUILD_TYPE": "userdebug",
   "UPLOAD_RECOVERY": false

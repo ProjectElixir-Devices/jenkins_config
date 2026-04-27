@@ -1,6 +1,6 @@
 {
     "DEVICE": "tulip",
-    "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_tulip",
+    "REPO": "https://github.com/ProjectElixir-Devices/android_device_xiaomi_tulip",
     "DIR": "device/xiaomi/tulip",
     "BUILD_TYPE": "userdebug"
 }

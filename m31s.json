@@ -1,6 +1,6 @@
 {
     "DEVICE": "m31s",
-    "REPO": "https://github.com/ProjectElixir-Devices/device_samsung_m31s.git",
+    "REPO": "https://github.com/ProjectElixir-Devices/android_device_samsung_m31s",
     "DIR": "device/samsung/m31s",
     "BUILD_TYPE": "userdebug"
 }

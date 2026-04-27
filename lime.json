@@ -1,6 +1,6 @@
 {
     "DEVICE": "lime",
-    "REPO": "https://github.com/imannig/device_xiaomi_lime.git",
+    "REPO": "https://github.com/imannig/device_xiaomi_lime",
     "DIR": "device/xiaomi/lime",
     "BUILD_TYPE": "userdebug"
 }

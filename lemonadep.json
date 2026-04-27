@@ -1,6 +1,6 @@
 {
     "DEVICE": "lemonadep",
-    "REPO": "https://github.com/ProjectElixir-Devices/device_oneplus_lemonadep",
+    "REPO": "https://github.com/ProjectElixir-Devices/android_device_oneplus_lemonadep",
     "DIR": "device/oneplus/lemonadep",
     "BUILD_TYPE": "userdebug",
     "UPLOAD_RECOVERY": true,

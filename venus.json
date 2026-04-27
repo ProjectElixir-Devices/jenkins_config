@@ -1,6 +1,6 @@
 {
   "DEVICE": "venus",
-  "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_venus",
+  "REPO": "https://github.com/ProjectElixir-Devices/android_device_xiaomi_venus",
   "DIR": "device/xiaomi/venus",
   "BUILD_TYPE": "userdebug"
 }

@@ -1,6 +1,6 @@
 {
     "DEVICE": "d2s",
-    "REPO": "https://github.com/ProjectElixir-Devices/android_device_samsung_d2s.git",
+    "REPO": "https://github.com/ProjectElixir-Devices/android_device_samsung_d2s",
     "DIR": "device/samsung/d2s",
     "BUILD_TYPE": "userdebug",
     "UPLOAD_RECOVERY": true

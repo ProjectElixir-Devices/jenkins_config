@@ -1,6 +1,6 @@
 {
     "DEVICE": "sunny",
-    "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_sunny",
+    "REPO": "https://github.com/ProjectElixir-Devices/android_device_xiaomi_sunny",
     "DIR": "device/xiaomi/sunny",
     "BUILD_TYPE": "userdebug",
     "UPLOAD_RECOVERY": true,

@@ -1,6 +1,6 @@
 {
   "DEVICE": "Pong",
-  "REPO": "https://github.com/ProjectElixir-Devices/device_nothing_Pong.git",
+  "REPO": "https://github.com/ProjectElixir-Devices/android_device_nothing_Pong",
   "DIR": "device/nothing/Pong",
   "BUILD_TYPE": "userdebug",
   "UPLOAD_RECOVERY": true,

@@ -1,6 +1,6 @@
 {
   "DEVICE": "stone",
-  "REPO": "https://github.com/ProjectElixir-Devices/device_xiaomi_stone.git",
+  "REPO": "https://github.com/ProjectElixir-Devices/android_device_xiaomi_stone",
   "DIR": "device/xiaomi/stone",
   "BUILD_TYPE": "userdebug",
   "UPLOAD_RECOVERY": true,

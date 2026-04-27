@@ -1,6 +1,6 @@
 {
   "DEVICE": "Spacewar",
-  "REPO": "https://github.com/ProjectElixir-Devices/device_nothing_Spacewar",
+  "REPO": "https://github.com/ProjectElixir-Devices/android_device_nothing_Spacewar",
   "DIR": "device/nothing/Spacewar",
   "BUILD_TYPE": "user",
   "UPLOAD_RECOVERY": true,

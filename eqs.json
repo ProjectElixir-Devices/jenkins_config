@@ -1,6 +1,6 @@
 {
     "DEVICE": "eqs",
-    "REPO": "https://github.com/ProjectElixir-Devices/device_motorola_eqs",
+    "REPO": "https://github.com/ProjectElixir-Devices/android_device_motorola_eqs",
     "DIR": "device/motorola/eqs",
     "BUILD_TYPE": "user",
     "UPLOAD_RECOVERY": true,
